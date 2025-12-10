@@ -1,23 +1,13 @@
 🕘️更新时间,#genre#
-2025-12-10 18:33:57,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+2025-12-11 06:31:59,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-CCTV-2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 
 💰央视付费频道,#genre#
-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
-风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696
 
 📡卫视频道,#genre#
@@ -37,14 +27,17 @@ CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
+全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 都市剧场,http://171.125.90.120:6001/rtp/226.0.2.81:8560
 
 ☘️重庆频道,#genre#
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
-重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
+重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001
@@ -52,8 +45,8 @@ CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 ☘️江苏频道,#genre#
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -93,8 +86,8 @@ CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
-延边-2,http://stream5.jlntv.cn/wq/playlist.m3u8
 延边-2,http://stream8.jlntv.cn/ljtv/playlist.m3u8
+延边-2,http://stream5.jlntv.cn/wq/playlist.m3u8
 
 ☘️内蒙古频道,#genre#
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
@@ -140,8 +133,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
 体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002
-山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
