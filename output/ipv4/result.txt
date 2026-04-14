@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-14 19:11:49,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-04-15 06:54:38,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -9,8 +9,8 @@ CCTV-2,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV2
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-3,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV3
 CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-CCTV-4,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV4
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV-4,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV4
 CCTV-5,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV5
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV5p
@@ -18,22 +18,21 @@ CCTV-6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 CCTV-6,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV6
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-7,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV7
-CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
-CCTV-8,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV8
 CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+CCTV-8,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV8
 CCTV-10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV10
+CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV11
 CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV12
-CCTV-13,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV13
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+CCTV-13,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV13
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-15,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV15
+CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-16,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV14
@@ -66,7 +65,6 @@ CCTV-17,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV17
 
 ☘️上海频道,#genre#
 全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 
 ☘️重庆频道,#genre#
@@ -75,10 +73,10 @@ CCTV-17,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV17
 ☘️江苏频道,#genre#
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 ☘️辽宁频道,#genre#
@@ -147,13 +145,12 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天津体育,http://168250.xyz:1111/rtp/239.5.1.3:5000
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.43.247.245:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
