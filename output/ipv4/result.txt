@@ -1,29 +1,31 @@
 🕘️更新时间,#genre#
-2026-04-16 06:50:13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-04-16 19:12:01,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-6,http://154.37.212.176/ysp.php?pid=600108442&id=2013693901
 CCTV-6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+CCTV-6,http://125.43.241.91:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
-CCTV-9,http://1.197.204.20:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=610336372a24c72f456be162b0a21d5d
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+CCTV-10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+CCTV-12,http://125.43.241.91:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-CCTV-17,http://1.197.204.20:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
@@ -31,22 +33,23 @@ CCTV-17,http://1.197.204.20:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&aut
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
-浙江卫视,http://1.197.204.20:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 黑龙江卫视,http://154.37.212.176/ysp.php?pid=600002498&id=2029797003
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
-东方卫视,http://1.197.204.20:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://1.197.204.20:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
-辽宁卫视,http://1.197.204.20:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://1.197.204.20:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://1.197.204.20:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://125.43.241.91:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 新疆卫视,http://154.37.212.176/ysp.php?pid=600152138&id=2019927403
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 ☘️广东频道,#genre#
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 
 ☘️浙江频道,#genre#
 
@@ -56,6 +59,7 @@ CCTV-17,http://1.197.204.20:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&aut
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 
@@ -65,10 +69,10 @@ CCTV-17,http://1.197.204.20:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&aut
 ☘️江苏频道,#genre#
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 ☘️辽宁频道,#genre#
