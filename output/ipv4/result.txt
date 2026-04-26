@@ -1,49 +1,24 @@
 🕘️更新时间,#genre#
-2026-04-26 18:56:10,rtmp://39.108.129.193:1935/cctv1/1sao
+2026-04-27 06:47:14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
-CCTV-1,rtmp://39.108.129.193:1935/cctv1/1sao
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-CCTV-2,rtmp://39.108.129.193:1935/cv2/mx6o_cv2
-CCTV-3,rtmp://39.108.129.193:1935/cv3/yxz4_cv3
-CCTV-4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4
-CCTV-5,rtmp://39.108.129.193:1935/cv5/6mio_cv5
-CCTV-6,rtmp://39.108.129.193:1935/cv6/re68_cv6
-CCTV-7,rtmp://39.108.129.193:1935/cv7/n6v4_cv7
-CCTV-8,rtmp://39.108.129.193:1935/cv8/rreo_cv8
-CCTV-9,rtmp://39.108.129.193:1935/cv9/jr0g_cv9
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,rtmp://39.108.129.193:1935/cv10/3fy8_cv10
 CCTV-11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-CCTV-11,rtmp://39.108.129.193:1935/cv11/gjnk_cv11
-CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
-CCTV-12,rtmp://39.108.129.193:1935/cv12/m8w0_cv12
+CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-CCTV-13,rtmp://39.108.129.193:1935/cv13/qa9s_cv13
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV-14,rtmp://39.108.129.193:1935/cv14/16rk_cv14
-CCTV-15,rtmp://39.108.129.193:1935/cv15/zvk0_cv15
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-CETV-1,http://120.76.248.139/live/bfgd/4200000135.m3u8
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
 
 💰央视付费频道,#genre#
-第一剧场,http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-怀旧剧场,http://61.184.46.85:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-北京卫视,http://61.184.46.85:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://153.0.171.163:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://61.184.46.85:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://61.184.46.85:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://153.0.171.163:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://113.25.252.226:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
@@ -55,6 +30,7 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 都市剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5
 
@@ -64,8 +40,8 @@ CETV-3,http://107.150.60.122/live/cetv3.m3u8
 ☘️江苏频道,#genre#
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
