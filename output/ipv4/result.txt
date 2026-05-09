@@ -1,16 +1,15 @@
 🕘️更新时间,#genre#
-2026-05-09 19:04:55,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-10 06:55:18,http://192.151.150.154/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
+CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-2,http://198.204.228.26/live/cctv2hd.m3u8
 CCTV-3,http://198.204.228.26/live/cctv3hd.m3u8
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5,http://192.151.150.154/live/cctv5p.m3u8
-CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
+CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 CCTV-8,http://198.204.228.26/live/cctv8hd.m3u8
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
@@ -24,14 +23,13 @@ CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
 📡卫视频道,#genre#
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
-宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
+宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 青海卫视,http://198.204.228.26/live/qhws.m3u8
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 
 ☘️北京频道,#genre#
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
@@ -115,7 +113,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎥咪咕直播,#genre#
