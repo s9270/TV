@@ -1,14 +1,10 @@
 🕘️更新时间,#genre#
-2026-05-16 07:02:36,http://192.151.150.154/live/cctv1hd.m3u8
+2026-05-16 19:09:13,http://192.151.150.154/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
-CCTV-1,http://182.114.50.12:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://182.114.50.12:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://182.114.50.12:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-5,http://192.151.150.154/live/cctv5p.m3u8
-CCTV-6,http://124.228.160.176:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
@@ -22,14 +18,17 @@ CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
 📡卫视频道,#genre#
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-江西卫视,http://124.228.160.176:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://218.29.147.237:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://125.42.150.192:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
 宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
+云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 
 ☘️北京频道,#genre#
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
@@ -43,10 +42,6 @@ CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
 
 ☘️重庆频道,#genre#
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
-重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001
-重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 
 ☘️江苏频道,#genre#
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
@@ -128,6 +123,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🪁动画频道,#genre#
 新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=3
+金鹰卡通,http://125.42.150.130:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://125.42.150.192:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
