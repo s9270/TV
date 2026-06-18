@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-18 07:32:19,http://198.204.240.250:82/live/cctv6.m3u8
+2026-06-18 21:01:49,http://173.208.212.130:8181/720p/cctv1.m3u8
 
 📺央视频道,#genre#
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-1,http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
+CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-9,http://223.75.149.129:9906/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
 CCTV-12,http://192.151.150.154/live/cctv12hd.m3u8
@@ -12,6 +14,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
 怀旧剧场,http://107.150.60.122/live/hjjc.m3u8
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 
@@ -20,17 +23,22 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=c2c82d250bd1aa9e46b789794bb578cf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-江苏卫视,http://198.204.228.26/live/jswshd.m3u8
+贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
+贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
+河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=cce563243c4c636de8d299236b553274&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山东卫视,https://live.264788.xyz/channel/shandongweishi?streamid=584a5648f57ec60599e05d68c502946e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-西藏卫视,http://198.204.228.26/live/xzws.m3u8
+山西卫视,http://192.151.150.154/live/sxwshd.m3u8
+四川卫视,http://192.151.150.154/live/scwshd.m3u8
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
+西藏卫视,http://198.204.228.26/live/xzws.m3u8
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
 ☘️北京频道,#genre#
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
@@ -38,8 +46,6 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
@@ -51,8 +57,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 ☘️辽宁频道,#genre#
@@ -121,8 +127,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
