@@ -1,25 +1,28 @@
 🕘️更新时间,#genre#
-2026-06-26 07:25:46,http://223.75.149.129:9906/tsfile/live/0005_1.m3u8?key=txiptv
+2026-06-26 20:18:06,http://198.204.240.250:82/live/cctv6.m3u8
 
 📺央视频道,#genre#
-CCTV-5,http://223.75.149.129:9906/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/playlist.m3u8?keeptime=00093a80&wsSecret=1bebd13d7482ab1a6f4971ff549fa2e0&wsTime=6a349a1b&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&t_id=037-20260619092339689A6E65E32436425877-oeHxgW
 
 💰央视付费频道,#genre#
-文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 文化精品,http://192.151.150.154/live/ysjp.m3u8
+文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
+贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
+河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
+吉林卫视,http://204.12.221.218:8181/3m1080p/jlws.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
@@ -28,7 +31,6 @@ CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/play
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 
 ☘️北京频道,#genre#
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
@@ -68,11 +70,11 @@ CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/play
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
+福建海峡卫视,http://8.135.27.147:1234/849119120
 
 ☘️海南频道,#genre#
 
 ☘️贵州频道,#genre#
-贵州移动电视,http://47.108.20.161:8866/guizhou/guizhou.php?id=gzyd
 
 ☘️甘肃频道,#genre#
 
@@ -105,8 +107,8 @@ CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696031215627010898/play
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -117,8 +119,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 
 🪁动画频道,#genre#
 
