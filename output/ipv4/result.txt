@@ -1,21 +1,15 @@
 🕘️更新时间,#genre#
-2026-08-01 19:23:44,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+2026-08-02 07:01:50,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV-3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
-CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
-CCTV-7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://204.12.221.218:8181/3m1080p/cctv10.m3u8
-CCTV-10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
-CCTV-13,http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 
@@ -25,11 +19,11 @@ CCTV-13,http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&
 东方卫视,http://198.204.228.26/live/dfwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-深圳卫视,http://139.227.21.22:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
@@ -46,8 +40,8 @@ CCTV-13,http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&
 ☘️江苏频道,#genre#
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -106,8 +100,8 @@ CCTV-13,http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -122,6 +116,7 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
+金鹰卡通,http://125.43.249.115:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
