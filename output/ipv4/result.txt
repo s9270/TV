@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-09-05 21:24:58,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-09-06 07:42:40,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 💰央视付费频道,#genre#
 
@@ -25,8 +25,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
 ☘️上海频道,#genre#
 东方影视,http://38.75.136.137:98/gslb/dsdqpub/shdsjhd.m3u8?auth=testpub
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 ☘️重庆频道,#genre#
